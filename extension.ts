@@ -36,7 +36,7 @@ namespace hourOfCode {
     /**
      * Opens a gate
      */
-    //% block="open gate"
+    //% block="ooopen gate"
     //% weight=90
     export function openDoor() {
         completeTask()
