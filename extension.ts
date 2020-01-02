@@ -32,6 +32,19 @@ namespace hourOfCode {
             taskIsComplete = true
         }
     }
+    /**
+     * say hi
+     */
+    //% block="say hi""
+    //% weight=90
+    export function sayhi() {
+        mobs.execute(
+            mobs.target(TargetSelectorKind.NearestPlayer),
+            positions.create(0, 0, 0),
+            "say hi"
+        
+        )
+    }
 
     /**
      * Opens a gate
