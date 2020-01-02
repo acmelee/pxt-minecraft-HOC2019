@@ -1,0 +1,18 @@
+{
+  "hourOfCode.agentAnalyze|block": "Agent-analyysi %dir",
+  "hourOfCode.agentDestroyL4|block": "Agent-tuho %dir",
+  "hourOfCode.agentDestroyL5|block": "Agent-tuho %dir",
+  "hourOfCode.agentDestroyL6|block": "Agent-tuho %dir",
+  "hourOfCode.agentDetectDryBrush|block": "Agent havaitsee kuivaa aluskasvillisuutta %dir",
+  "hourOfCode.agentDetectDryFern|block": "Agent havaitsee kuivia saniaisia %dir",
+  "hourOfCode.agentDetectDryGrass|block": "Agent havaitsee kuivaa ruohoa %dir",
+  "hourOfCode.agentLookForHazards|block": "Agentin vaaranetsintä",
+  "hourOfCode.agentSeeHazard|block": "vaara havaittu",
+  "hourOfCode.alertTeam|block": "ilmoita tiimille",
+  "hourOfCode.hazardsRemainL4|block": "vaaroja jää jäljelle",
+  "hourOfCode.hazardsRemainL5|block": "vaaroja jää jäljelle",
+  "hourOfCode.hazardsRemainL6|block": "vaaroja jää jäljelle",
+  "hourOfCode.openDoor|block": "avaa portti",
+  "hourOfCode|block": "hourOfCode",
+  "{id:category}HourOfCode": "HourOfCode"
+}

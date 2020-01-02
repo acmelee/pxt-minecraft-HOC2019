@@ -1,0 +1,18 @@
+{
+  "hourOfCode.agentAnalyze|block": "agent analysér %dir",
+  "hourOfCode.agentDestroyL4|block": "agent ødelæg %dir",
+  "hourOfCode.agentDestroyL5|block": "agent ødelæg %dir",
+  "hourOfCode.agentDestroyL6|block": "agent ødelæg %dir",
+  "hourOfCode.agentDetectDryBrush|block": "agent registrerer tørt buskads %dir",
+  "hourOfCode.agentDetectDryFern|block": "agent registrerer tør bregne %dir",
+  "hourOfCode.agentDetectDryGrass|block": "agent registrerer tørt græs %dir",
+  "hourOfCode.agentLookForHazards|block": "agent led efter farer",
+  "hourOfCode.agentSeeHazard|block": "fare registreret",
+  "hourOfCode.alertTeam|block": "alarmér team",
+  "hourOfCode.hazardsRemainL4|block": "brandfare forekommer",
+  "hourOfCode.hazardsRemainL5|block": "brandfare forekommer",
+  "hourOfCode.hazardsRemainL6|block": "brandfare forekommer",
+  "hourOfCode.openDoor|block": "åbn port",
+  "hourOfCode|block": "hourOfCode",
+  "{id:category}HourOfCode": "HourOfCode"
+}

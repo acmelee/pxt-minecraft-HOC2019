@@ -1,0 +1,18 @@
+{
+  "hourOfCode.agentAnalyze|block": "o agent analisa %dir",
+  "hourOfCode.agentDestroyL4|block": "o agent destrói %dir",
+  "hourOfCode.agentDestroyL5|block": "o agent destrói %dir",
+  "hourOfCode.agentDestroyL6|block": "o agent destrói %dir",
+  "hourOfCode.agentDetectDryBrush|block": "o agent detetar vegetação seca %dir",
+  "hourOfCode.agentDetectDryFern|block": "o agent detetar sambaianas secas %dir",
+  "hourOfCode.agentDetectDryGrass|block": "o agent detetar relva seca %dir",
+  "hourOfCode.agentLookForHazards|block": "agent procura perigos",
+  "hourOfCode.agentSeeHazard|block": "perigo encontrado",
+  "hourOfCode.alertTeam|block": "alertar equipa",
+  "hourOfCode.hazardsRemainL4|block": "restos de perigos",
+  "hourOfCode.hazardsRemainL5|block": "restos de perigos",
+  "hourOfCode.hazardsRemainL6|block": "restos de perigos",
+  "hourOfCode.openDoor|block": "abrir portão",
+  "hourOfCode|block": "hourOfCode",
+  "{id:category}HourOfCode": "HourOfCode"
+}
