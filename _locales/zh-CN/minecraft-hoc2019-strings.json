@@ -13,6 +13,7 @@
   "hourOfCode.hazardsRemainL5|block": "危险仍然存在",
   "hourOfCode.hazardsRemainL6|block": "危险仍然存在",
   "hourOfCode.openDoor|block": "打开门",
+  "hourOfCode.sayhi|block": "打开一个门",
   "hourOfCode|block": "hourOfCode",
   "{id:category}HourOfCode": "HourOfCode"
 }
