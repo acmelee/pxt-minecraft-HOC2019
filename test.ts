@@ -11,7 +11,6 @@ hourOfCode.agentDestroyL6(SixDirection.Forward);
 hourOfCode.openDoor();
 hourOfCode.sayhi();
 hourOfCode.completeTask();
-
 hourOfCode.agentLookForHazards();
 hourOfCode.agentSeeHazard();
 hourOfCode.alertTeam();
